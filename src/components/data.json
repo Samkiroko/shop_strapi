@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.pexels.com/photos/2916814/pexels-photo-2916814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "img2": "https://images.pexels.com/photos/2916814/pexels-photo-2916814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "isNew": true,
+    "oldPrice": 19,
+    "Price": 12
+  },
+  {
+    "id": 2,
+    "img": "https://images.pexels.com/photos/1390600/pexels-photo-1390600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "isNew": true,
+    "oldPrice": 19,
+    "Price": 12
+  },
+  {
+    "id": 3,
+    "img": "https://images.pexels.com/photos/2916814/pexels-photo-2916814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "oldPrice": 19,
+    "Price": 12
+  },
+  {
+    "id": 4,
+    "img": "https://images.pexels.com/photos/3991005/pexels-photo-3991005.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "oldPrice": 19,
+    "Price": 12
+  }
+]
